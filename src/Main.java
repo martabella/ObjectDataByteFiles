@@ -13,7 +13,7 @@ public class Main {
     public void inicio(){
         write();
         read();
-        System.out.println();
+        System.out.println("The change");
     }
 
     //Writing a byte file (objects.data)
